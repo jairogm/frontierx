@@ -94,7 +94,9 @@ export default function Home() {
               </div>
             </Accordion>
             <Accordion title="Lorem Ipsum">
-
+              <div className='w-full h-auto flex flex-cols flex-1 flex-wrap gap-2 items-center justify-center box-border'>
+                <p className='text-sm font-extralight text-left'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolor totam facere dicta dignissimos, necessitatibus placeat magni deleniti eaque magnam vel voluptates, soluta, numquam eveniet repellat omnis in! Vel, neque expedita!</p>
+                </div>
             </Accordion>
           </div>
         </div>
